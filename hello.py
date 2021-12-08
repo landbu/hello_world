@@ -1,0 +1,2 @@
+#uwuxdlol
+print("hello world")
